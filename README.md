@@ -1,2 +1,2 @@
 # shark
-yolo
+yolov6
