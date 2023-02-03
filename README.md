@@ -1,2 +1,2 @@
 # shark
-yolov6
+yolov6 3.0
